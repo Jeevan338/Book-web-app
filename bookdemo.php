@@ -27,7 +27,7 @@
                    </tr>
                    <tr>
                        <td></td>
-                       <td><button class="btn btn-success" name="btn">REGISTER</button>
+                       <td><button class="btn btn-primary" name="btn">REGISTER</button>
                        </td>
                    </tr>
                </table>
